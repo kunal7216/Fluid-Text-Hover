@@ -7,6 +7,7 @@ var vertex = `
 				gl_Position = vec4(position, 0, 1);
 		}
 `;
+
 var fragment = `
 		precision highp float;
 		precision highp int;
